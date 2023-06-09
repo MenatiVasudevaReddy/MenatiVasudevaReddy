@@ -1,8 +1,10 @@
 ### Hi there 👋 Iam MENATI VASUDEVA REDDY
  🔭 I’m currently working on MERN STACK
- 💬 Ask me about ...HTML, CSS, JAVASCRIPT, REACT JS, JAVA
- 📫 How to reach me: ...menati73@gmail.com
- Languages and Tools: HTML CSS JAVASCRIPT JAVA
+ 
+ 💬 Ask me about HTML, CSS, JAVASCRIPT, REACT JS, JAVA
+ 
+ 📫 How to reach me: menati73@gmail.com
+ 
  
  
  
